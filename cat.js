@@ -1,0 +1,3 @@
+function cat(){
+	var m=[];
+}
